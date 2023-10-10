@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SagaInheritance.App", "SagaInheritance.App\SagaInheritance.App.csproj", "{514818F3-F394-4D2A-AA9C-5C361BD49EE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{514818F3-F394-4D2A-AA9C-5C361BD49EE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{514818F3-F394-4D2A-AA9C-5C361BD49EE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{514818F3-F394-4D2A-AA9C-5C361BD49EE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{514818F3-F394-4D2A-AA9C-5C361BD49EE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17055DEC-E7F1-44BA-AFA8-508002C1AD7B}
+	EndGlobalSection
+EndGlobal
